@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasNotionSync.Console", "CanvasNotionSync.Console\CanvasNotionSync.Console.csproj", "{95009BC4-A675-4516-B739-62D7B39AD39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasNotionSync", "CanvasNotionSync\CanvasNotionSync.csproj", "{52A42636-7B36-40ED-A678-15FD37B9268D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95009BC4-A675-4516-B739-62D7B39AD39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95009BC4-A675-4516-B739-62D7B39AD39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95009BC4-A675-4516-B739-62D7B39AD39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95009BC4-A675-4516-B739-62D7B39AD39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A42636-7B36-40ED-A678-15FD37B9268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A42636-7B36-40ED-A678-15FD37B9268D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A42636-7B36-40ED-A678-15FD37B9268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A42636-7B36-40ED-A678-15FD37B9268D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
